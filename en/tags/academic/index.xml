@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | My Site</title>
+    <link>https://ruslanvaliev-rudn.github.io/en/tags/academic/</link>
+      <atom:link href="https://ruslanvaliev-rudn.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruslanvaliev-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/05/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-a-bit-of-rest&#34;&gt;🎮 A Bit of Rest&lt;/h2&gt;
+&lt;p&gt;On Saturday, I gave myself a study-free evening — turned on the PlayStation and finally finished Ghost of Tsushima.&lt;br&gt;
+Sometimes it’s good to just switch off your brain and reset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Is It Important to Learn Data Visualization?</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/publication/05/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;-why-is-it-important-to-learn-data-visualization&#34;&gt;🌍 Why Is It Important to Learn Data Visualization?&lt;/h2&gt;
+&lt;p&gt;In today’s world, we are surrounded by so much information that it’s difficult to process in raw form. Numbers, tables, and reports without visual support are like GPS without a map — everything’s there, but hard to interpret. That’s why &lt;strong&gt;data visualization&lt;/strong&gt; is not just decoration — it’s a vital skill.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-what-is-data-visualization&#34;&gt;📊 What Is Data Visualization?&lt;/h3&gt;
+&lt;p&gt;It’s the process of transforming numerical and textual information into graphical elements — charts, diagrams, maps, and infographics. Visualization helps reveal patterns, detect trends, explain findings, and support decision-making.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-why-is-it-useful&#34;&gt;💡 Why Is It Useful?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Simplifies perception&lt;/strong&gt; — the eye processes charts faster than tables.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Uncovers hidden relationships&lt;/strong&gt; — visuals make connections and anomalies obvious.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supports decision-making&lt;/strong&gt; — especially in business, science, and finance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improves communication&lt;/strong&gt; — easier to convey ideas to a team or investor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Builds trust&lt;/strong&gt; — well-designed visuals make your analysis more convincing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-what-tools-can-you-use&#34;&gt;🧰 What Tools Can You Use?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Excel / Google Sheets&lt;/strong&gt; — simple and accessible&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Power BI / Tableau&lt;/strong&gt; — for interactive dashboards&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Matplotlib / Seaborn / Plotly (Python)&lt;/strong&gt; — flexibility for programmers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;D3.js&lt;/strong&gt; — customized web-based visualizations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canva / Figma&lt;/strong&gt; — for infographics and presentations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-who-needs-this-skill&#34;&gt;👨‍🎓 Who Needs This Skill?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysts and data scientists&lt;/li&gt;
+&lt;li&gt;Students and educators&lt;/li&gt;
+&lt;li&gt;Marketers and managers&lt;/li&gt;
+&lt;li&gt;Engineers and researchers&lt;/li&gt;
+&lt;li&gt;Anyone who works with data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h3&gt;
+&lt;p&gt;The ability to visualize data is a superpower. It&amp;rsquo;s a skill that makes your analysis accessible, understandable, and influential. It’s a tool that gives shape to complex ideas and makes them clear to others. Master it — and your numbers will speak for themselves.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/04/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-a-lecture-that-changed-my-thinking&#34;&gt;🧠 A Lecture That Changed My Thinking&lt;/h2&gt;
+&lt;p&gt;I attended an open lecture on neural networks.&lt;br&gt;
+Before that, everything seemed complicated and abstract, but now I finally understand how layers and weights work.&lt;br&gt;
+Sometimes, one good lecture is worth weeks of reading textbooks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/publication/04/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-scientific-programming-tools-for-analysis-modeling-and-computation&#34;&gt;🧪 Scientific Programming: Tools for Analysis, Modeling, and Computation&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a field where software tools are used for computational experiments, data analysis, mathematical modeling, and result visualization. The key requirements for languages in this area are &lt;strong&gt;high numerical precision, powerful libraries, and convenience in numerical computations&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-features-of-scientific-programming&#34;&gt;🧠 Features of Scientific Programming&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Working with &lt;strong&gt;numerical methods&lt;/strong&gt; and linear algebra&lt;/li&gt;
+&lt;li&gt;Modeling &lt;strong&gt;physical, chemical, and biological processes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Building &lt;strong&gt;statistical models and forecasts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Heavy use of &lt;strong&gt;arrays and matrix operations&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Widely used in &lt;strong&gt;engineering, physics, economics, bioinformatics, climatology&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-popular-scientific-programming-languages&#34;&gt;🔍 Popular Scientific Programming Languages&lt;/h3&gt;
+&lt;h4 id=&#34;python&#34;&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple syntax and a huge ecosystem of scientific libraries (NumPy, SciPy, Matplotlib, Pandas)&lt;/li&gt;
+&lt;li&gt;Widely used in data science, machine learning, and visualization&lt;/li&gt;
+&lt;li&gt;Suitable for both prototyping and complex computations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;r&#34;&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Specialized in statistics and data analysis&lt;/li&gt;
+&lt;li&gt;Powerful visualization tools (ggplot2, Shiny)&lt;/li&gt;
+&lt;li&gt;Popular in econometrics, sociology, biostatistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;matlab&#34;&gt;&lt;strong&gt;MATLAB&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A commercial language focused on matrix computations and technical modeling&lt;/li&gt;
+&lt;li&gt;Great for signal processing, control systems, and simulations&lt;/li&gt;
+&lt;li&gt;Includes a robust graphical interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;julia&#34;&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A relatively new language built specifically for scientific computing&lt;/li&gt;
+&lt;li&gt;Faster than Python and MATLAB, while maintaining usability&lt;/li&gt;
+&lt;li&gt;Supports multithreading, vectorization, and GPU computing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;fortran&#34;&gt;&lt;strong&gt;Fortran&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A classic choice for scientific computing, especially in physics and numerical modeling&lt;/li&gt;
+&lt;li&gt;Known for high performance and reliability&lt;/li&gt;
+&lt;li&gt;Still used in large-scale projects like climate models and aerodynamics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cc&#34;&gt;&lt;strong&gt;C/C++&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Suitable for building high-performance scientific libraries&lt;/li&gt;
+&lt;li&gt;Often used alongside other languages (e.g., Python via bindings)&lt;/li&gt;
+&lt;li&gt;Offers full control over memory and computations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-criteria-for-choosing-a-language&#34;&gt;⚙️ Criteria for Choosing a Language&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 Performance: essential for heavy computations&lt;/li&gt;
+&lt;li&gt;📚 Library availability: pre-built tools reduce development time&lt;/li&gt;
+&lt;li&gt;👥 Community: active developer ecosystems help solve problems faster&lt;/li&gt;
+&lt;li&gt;🔬 Specialization: some languages are better suited for specific tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-example-applications&#34;&gt;🌐 Example Applications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Physics&lt;/strong&gt;: particle modeling, body motion simulation (C++, Fortran)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biology&lt;/strong&gt;: processing genetic data (R, Python)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Economics&lt;/strong&gt;: time series forecasting (R, MATLAB)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Space science&lt;/strong&gt;: orbital calculations and simulations (Fortran, Python)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI&lt;/strong&gt;: model training and data analysis (Python, Julia)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h3&gt;
+&lt;p&gt;Scientific programming languages bridge the gap between theory and practice, enabling researchers and engineers to tackle complex problems using computational methods. Choosing the right language depends on the application area, required performance, and the availability of specialized tools. The better you understand a language&amp;rsquo;s capabilities, the more effective your research will be.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Presentations</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/publication/03/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-creating-presentations-how-to-convey-ideas-effectively&#34;&gt;🎤 Creating Presentations: How to Convey Ideas Effectively&lt;/h2&gt;
+&lt;p&gt;A presentation is not just a set of slides — it’s a communication tool. Its purpose is to visually and logically convey information, support arguments, and persuade the audience of your idea&amp;rsquo;s value. The ability to create strong presentations is important not only for students and teachers but for professionals in every field.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-why-create-a-presentation&#34;&gt;🔍 Why Create a Presentation?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🎯 Support your speech&lt;/li&gt;
+&lt;li&gt;💡 Visualize complex concepts&lt;/li&gt;
+&lt;li&gt;📈 Showcase data and results&lt;/li&gt;
+&lt;li&gt;🧠 Simplify information for the audience&lt;/li&gt;
+&lt;li&gt;👥 Influence opinions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-tools-for-creating-presentations&#34;&gt;⚙️ Tools for Creating Presentations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft PowerPoint&lt;/strong&gt; — the classic tool with extensive design and animation features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Slides&lt;/strong&gt; — a cloud-based solution great for collaboration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Canva&lt;/strong&gt; — an online platform with ready-made templates and modern design.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keynote&lt;/strong&gt; — a powerful option for macOS users.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX + Beamer&lt;/strong&gt; — professional formatting for academic presentations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reveal.js / Marp&lt;/strong&gt; — slide creation using Markdown syntax.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-structure-of-a-good-presentation&#34;&gt;🧱 Structure of a Good Presentation&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Title Slide&lt;/strong&gt;&lt;br&gt;
+Title, presenter’s name, and date — first impression matters.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+Briefly explain the topic, its relevance, and what to expect.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Main Content&lt;/strong&gt;&lt;br&gt;
+Clear logic, structured blocks, and key facts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data and Visuals&lt;/strong&gt;&lt;br&gt;
+Charts, graphs, and images — anything that reinforces your points.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;br&gt;
+Summarize key ideas and deliver your final message.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Contact / Q&amp;amp;A Slide&lt;/strong&gt;&lt;br&gt;
+Wrap-up and invite interaction with the audience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-principles-of-effective-design&#34;&gt;💡 Principles of Effective Design&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;One Slide – One Idea&lt;/strong&gt;&lt;br&gt;
+Avoid information overload. Keep it simple.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Minimal Text, Maximum Visuals&lt;/strong&gt;&lt;br&gt;
+Replace long descriptions with diagrams and pictures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Consistent Style&lt;/strong&gt;&lt;br&gt;
+Fonts, colors, and icons should follow a unified theme.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Contrast and Readability&lt;/strong&gt;&lt;br&gt;
+Light text on dark background or vice versa — make it easy to read.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Purposeful Animation&lt;/strong&gt;&lt;br&gt;
+Use animations to enhance, not distract.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-practical-tips&#34;&gt;🎯 Practical Tips&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rehearse your speech — a presentation doesn’t work without narration.&lt;/li&gt;
+&lt;li&gt;Keep the number of slides manageable: 10–15 is ideal.&lt;/li&gt;
+&lt;li&gt;Use storytelling — audiences relate better to stories than to facts.&lt;/li&gt;
+&lt;li&gt;Always adapt to your target audience: students, colleagues, or investors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h3&gt;
+&lt;p&gt;Creating presentations is a skill that blends design, structure, and communication. A well-crafted presentation strengthens your message, boosts confidence, and leaves a lasting impression. Keep it simple, clear, and meaningful — and you’ll be heard.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/03/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-coffee-and-new-connections&#34;&gt;☕ Coffee and New Connections&lt;/h2&gt;
+&lt;p&gt;On Thursday, I dropped by the IT entrepreneurship club meetup.&lt;br&gt;
+Lots of interesting people, ideas — and coffee 🙂&lt;br&gt;
+We discussed how to launch a startup with minimal resources.&lt;br&gt;
+I left inspired — now I want to try building something of my own.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightweight Markup Languages</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/publication/02/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-lightweight-markup-languages-simplicity-meets-structure&#34;&gt;🧩 Lightweight Markup Languages: Simplicity Meets Structure&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages are formats designed to structure text using minimal, human-readable syntax. They were created as alternatives to bulky and complex languages like HTML and XML.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-why-use-lightweight-markup-languages&#34;&gt;❓ Why Use Lightweight Markup Languages?&lt;/h3&gt;
+&lt;p&gt;They allow you to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 structure text (headings, lists, quotes, links, etc.);&lt;/li&gt;
+&lt;li&gt;✍️ write readable documents without additional editors;&lt;/li&gt;
+&lt;li&gt;📤 quickly export text to HTML, PDF, and other formats;&lt;/li&gt;
+&lt;li&gt;🤝 simplify collaboration on documentation, notes, and technical texts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-popular-examples&#34;&gt;📚 Popular Examples&lt;/h3&gt;
+&lt;h4 id=&#34;markdown&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;The most well-known and widely used lightweight language. Simple and intuitive: &lt;code&gt;#&lt;/code&gt; for headings, &lt;code&gt;*&lt;/code&gt; for lists, &lt;code&gt;**bold text**&lt;/code&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Heavily used on GitHub, in blogs, wikis, and README files.&lt;/li&gt;
+&lt;li&gt;Supported by most content management systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;restructuredtext-rest&#34;&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;More strict and powerful than Markdown. Common in the Python community (e.g., for documentation via Sphinx).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Supports advanced structures: tables, cross-references, indexes.&lt;/li&gt;
+&lt;li&gt;Requires attention to formatting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;asciidoc&#34;&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;A feature-rich language tailored for technical documentation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Offers more formatting capabilities than Markdown.&lt;/li&gt;
+&lt;li&gt;Used in large projects like Red Hat documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;org-mode&#34;&gt;&lt;strong&gt;Org-mode&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;A language for Emacs that combines markup with task and agenda management.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suitable for notes, TODO lists, and exporting to LaTeX, PDF, HTML.&lt;/li&gt;
+&lt;li&gt;Especially popular among Emacs users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-advantages-of-lightweight-languages&#34;&gt;🧠 Advantages of Lightweight Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Simplicity&lt;/strong&gt;: easy to learn and start using.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Readability&lt;/strong&gt;: content remains understandable even without rendering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexibility&lt;/strong&gt;: export to multiple formats.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tool Support&lt;/strong&gt;: widely supported by editors, platforms, and version control systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-where-are-they-used&#34;&gt;🔧 Where Are They Used?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📘 Technical documentation&lt;/li&gt;
+&lt;li&gt;🧾 README files and instructions&lt;/li&gt;
+&lt;li&gt;📝 Notes and blogging&lt;/li&gt;
+&lt;li&gt;🧠 Educational content&lt;/li&gt;
+&lt;li&gt;📑 Wikis and internal knowledge bases&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h3&gt;
+&lt;p&gt;Lightweight markup languages are a simple and effective way to structure text. They lower the barrier to creating readable and well-formatted documentation while remaining convenient for developers, technical writers, and attentive users. If you want to write less but say more — this is your tool of choice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/02/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-first-hackathon&#34;&gt;👨‍💻 First Hackathon!&lt;/h2&gt;
+&lt;p&gt;I took part in my very first hackathon!&lt;br&gt;
+Our team developed a web application for personal finance tracking.&lt;br&gt;
+It wasn’t easy — we stayed up until 3 a.m., but in the end we presented the project and made it into the top 10.&lt;br&gt;
+An awesome experience!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/01/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-new-topic-on-business-analytics&#34;&gt;📚 New Topic on Business Analytics&lt;/h2&gt;
+&lt;p&gt;This week we started exploring data visualization in Power BI.&lt;br&gt;
+It&amp;rsquo;s amazing how easily boring tables can be transformed into interactive dashboards.&lt;br&gt;
+I created my first report — even the instructor gave me a compliment 😎&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/publication/01/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-version-control-why-you-need-git-and-how-it-works&#34;&gt;🧠 Version Control: Why You Need Git and How It Works&lt;/h2&gt;
+&lt;p&gt;Version Control Systems (VCS) are indispensable tools for any developer, data analyst, engineer, or even designer. They allow you to track changes in projects, roll back to previous versions, collaborate in teams, and keep a full history of code evolution. Among all systems, the most popular one is &lt;strong&gt;Git&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-what-is-git&#34;&gt;🔍 What Is Git?&lt;/h3&gt;
+&lt;p&gt;Git is a distributed version control system created by Linus Torvalds in 2005 for developing the Linux kernel. It gives each user a full clone of the repository with its own history and the ability to make changes independently. Unlike centralized systems, Git doesn’t require constant server access and allows offline work.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-why-use-git&#34;&gt;💡 Why Use Git?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Change tracking&lt;/strong&gt;: see what was changed, when, and by whom.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Revert to previous versions&lt;/strong&gt;: easily return to a stable state.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team collaboration&lt;/strong&gt;: multiple developers can work in parallel without interfering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branching&lt;/strong&gt;: create isolated branches for features, bug fixes, or experiments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;: the project history is stored both locally and on remote repositories.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-core-git-concepts&#34;&gt;🧱 Core Git Concepts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository&lt;/strong&gt; — the project&amp;rsquo;s storage with full change history.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commit&lt;/strong&gt; — a snapshot of the project at a certain moment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branch&lt;/strong&gt; — an independent development line. The default branch is usually &lt;code&gt;main&lt;/code&gt; or &lt;code&gt;master&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Merge&lt;/strong&gt; — combining changes from one branch into another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conflicts&lt;/strong&gt; — occur when changes from different branches affect the same part of a file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remote repository&lt;/strong&gt; — an external server (e.g., GitHub) where shared versions are stored.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-github-gitlab-and-others&#34;&gt;🌐 GitHub, GitLab, and Others&lt;/h3&gt;
+&lt;p&gt;Git is often used with online platforms like &lt;strong&gt;GitHub&lt;/strong&gt;, &lt;strong&gt;GitLab&lt;/strong&gt;, and &lt;strong&gt;Bitbucket&lt;/strong&gt;. These services provide user-friendly interfaces for managing repositories, collaborating, documenting, tracking tasks, and publishing projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-how-git-helps-in-real-work&#34;&gt;🚀 How Git Helps in Real Work&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developers store and co-develop applications using Git.&lt;/li&gt;
+&lt;li&gt;Analysts version data processing scripts and dashboards.&lt;/li&gt;
+&lt;li&gt;DevOps teams automate builds and deployment through Git repositories.&lt;/li&gt;
+&lt;li&gt;Teachers and students exchange academic projects and check assignments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-conclusion&#34;&gt;🧭 Conclusion&lt;/h3&gt;
+&lt;p&gt;Git is more than just a tool — it’s a fundamental part of modern development. Understanding how version control works helps not only with managing code, but also with teamwork, task planning, and organizing the entire development process. Even if you&amp;rsquo;re working solo, Git becomes your backup system and timeline of success.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

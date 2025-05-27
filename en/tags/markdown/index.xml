@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | My Site</title>
+    <link>https://ruslanvaliev-rudn.github.io/en/tags/markdown/</link>
+      <atom:link href="https://ruslanvaliev-rudn.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruslanvaliev-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/05/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-a-bit-of-rest&#34;&gt;🎮 A Bit of Rest&lt;/h2&gt;
+&lt;p&gt;On Saturday, I gave myself a study-free evening — turned on the PlayStation and finally finished Ghost of Tsushima.&lt;br&gt;
+Sometimes it’s good to just switch off your brain and reset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/04/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-a-lecture-that-changed-my-thinking&#34;&gt;🧠 A Lecture That Changed My Thinking&lt;/h2&gt;
+&lt;p&gt;I attended an open lecture on neural networks.&lt;br&gt;
+Before that, everything seemed complicated and abstract, but now I finally understand how layers and weights work.&lt;br&gt;
+Sometimes, one good lecture is worth weeks of reading textbooks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Researcher’s Website with Hugo Academic</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-do-researchers-need-a-website&#34;&gt;🧠 Why Do Researchers Need a Website?&lt;/h2&gt;
+&lt;p&gt;A personal website is more than just a digital business card. It’s a:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 &lt;strong&gt;Repository of academic works&lt;/strong&gt; — with filtering options and import from Google Scholar or BibTeX;&lt;/li&gt;
+&lt;li&gt;📢 &lt;strong&gt;Platform for blogging&lt;/strong&gt; — share your thoughts, methods, and commentary;&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Project catalog&lt;/strong&gt; — grants, collaborations, experimental environments;&lt;/li&gt;
+&lt;li&gt;🧭 &lt;strong&gt;Communication tool&lt;/strong&gt; — receive invitations to conferences, lectures, and reviews;&lt;/li&gt;
+&lt;li&gt;🧑‍🎓 &lt;strong&gt;Way to attract students&lt;/strong&gt; — prospective graduate students can learn more about your interests;&lt;/li&gt;
+&lt;li&gt;📬 &lt;strong&gt;Contact channel&lt;/strong&gt; — via a form or email address.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-hugo-academic&#34;&gt;🚀 Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic&lt;/a&gt; is a framework for building research-oriented websites based on the Hugo static site generator. Its advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Speed&lt;/strong&gt;: the site is statically generated, making it fast and reliable;&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Beautiful templates&lt;/strong&gt;: focused on readability, minimalism, and academic style;&lt;/li&gt;
+&lt;li&gt;🔧 &lt;strong&gt;Flexibility&lt;/strong&gt;: support for publications, projects, courses, events, blogs, and widgets;&lt;/li&gt;
+&lt;li&gt;🔗 &lt;strong&gt;Integrations&lt;/strong&gt;: ORCID, Google Scholar, Twitter, GitHub, Disqus, and more;&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Easy configuration&lt;/strong&gt;: site structure is managed via YAML files and Markdown content;&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Localization&lt;/strong&gt;: supports multilingual websites, including Russian.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-can-you-build&#34;&gt;🛠 What Can You Build?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A feed with updates on your publications;&lt;/li&gt;
+&lt;li&gt;A calendar of upcoming talks and conferences;&lt;/li&gt;
+&lt;li&gt;A directory of students who have worked with you;&lt;/li&gt;
+&lt;li&gt;A page for your courses and lecture materials;&lt;/li&gt;
+&lt;li&gt;Integration with citation systems and academic databases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;In academia, visibility matters. Your academic reputation begins with Google — and a site built on Hugo Academic can serve as your intellectual hub. It doesn&amp;rsquo;t require much effort but gives you control over how you are represented to the world. If you haven&amp;rsquo;t made this step yet, now might be the perfect time to start.&lt;/p&gt;
+&lt;p&gt;🧪 Make science visible. Let your website tell a story beyond just a list of publications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/03/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-coffee-and-new-connections&#34;&gt;☕ Coffee and New Connections&lt;/h2&gt;
+&lt;p&gt;On Thursday, I dropped by the IT entrepreneurship club meetup.&lt;br&gt;
+Lots of interesting people, ideas — and coffee 🙂&lt;br&gt;
+We discussed how to launch a startup with minimal resources.&lt;br&gt;
+I left inspired — now I want to try building something of my own.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/02/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-first-hackathon&#34;&gt;👨‍💻 First Hackathon!&lt;/h2&gt;
+&lt;p&gt;I took part in my very first hackathon!&lt;br&gt;
+Our team developed a web application for personal finance tracking.&lt;br&gt;
+It wasn’t easy — we stayed up until 3 a.m., but in the end we presented the project and made it into the top 10.&lt;br&gt;
+An awesome experience!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/01/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-new-topic-on-business-analytics&#34;&gt;📚 New Topic on Business Analytics&lt;/h2&gt;
+&lt;p&gt;This week we started exploring data visualization in Power BI.&lt;br&gt;
+It&amp;rsquo;s amazing how easily boring tables can be transformed into interactive dashboards.&lt;br&gt;
+I created my first report — even the instructor gave me a compliment 😎&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

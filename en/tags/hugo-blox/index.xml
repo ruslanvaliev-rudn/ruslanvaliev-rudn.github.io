@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://ruslanvaliev-rudn.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://ruslanvaliev-rudn.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruslanvaliev-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/05/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-a-bit-of-rest&#34;&gt;🎮 A Bit of Rest&lt;/h2&gt;
+&lt;p&gt;On Saturday, I gave myself a study-free evening — turned on the PlayStation and finally finished Ghost of Tsushima.&lt;br&gt;
+Sometimes it’s good to just switch off your brain and reset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/04/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-a-lecture-that-changed-my-thinking&#34;&gt;🧠 A Lecture That Changed My Thinking&lt;/h2&gt;
+&lt;p&gt;I attended an open lecture on neural networks.&lt;br&gt;
+Before that, everything seemed complicated and abstract, but now I finally understand how layers and weights work.&lt;br&gt;
+Sometimes, one good lecture is worth weeks of reading textbooks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/03/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-coffee-and-new-connections&#34;&gt;☕ Coffee and New Connections&lt;/h2&gt;
+&lt;p&gt;On Thursday, I dropped by the IT entrepreneurship club meetup.&lt;br&gt;
+Lots of interesting people, ideas — and coffee 🙂&lt;br&gt;
+We discussed how to launch a startup with minimal resources.&lt;br&gt;
+I left inspired — now I want to try building something of my own.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/02/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-first-hackathon&#34;&gt;👨‍💻 First Hackathon!&lt;/h2&gt;
+&lt;p&gt;I took part in my very first hackathon!&lt;br&gt;
+Our team developed a web application for personal finance tracking.&lt;br&gt;
+It wasn’t easy — we stayed up until 3 a.m., but in the end we presented the project and made it into the top 10.&lt;br&gt;
+An awesome experience!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/post/01/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-new-topic-on-business-analytics&#34;&gt;📚 New Topic on Business Analytics&lt;/h2&gt;
+&lt;p&gt;This week we started exploring data visualization in Power BI.&lt;br&gt;
+It&amp;rsquo;s amazing how easily boring tables can be transformed into interactive dashboards.&lt;br&gt;
+I created my first report — even the instructor gave me a compliment 😎&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

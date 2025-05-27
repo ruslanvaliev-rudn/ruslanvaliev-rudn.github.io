@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | My Site</title>
+    <link>https://ruslanvaliev-rudn.github.io/en/project/</link>
+      <atom:link href="https://ruslanvaliev-rudn.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruslanvaliev-rudn.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>A Researcher’s Website with Hugo Academic</title>
+      <link>https://ruslanvaliev-rudn.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ruslanvaliev-rudn.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-why-do-researchers-need-a-website&#34;&gt;🧠 Why Do Researchers Need a Website?&lt;/h2&gt;
+&lt;p&gt;A personal website is more than just a digital business card. It’s a:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 &lt;strong&gt;Repository of academic works&lt;/strong&gt; — with filtering options and import from Google Scholar or BibTeX;&lt;/li&gt;
+&lt;li&gt;📢 &lt;strong&gt;Platform for blogging&lt;/strong&gt; — share your thoughts, methods, and commentary;&lt;/li&gt;
+&lt;li&gt;🧩 &lt;strong&gt;Project catalog&lt;/strong&gt; — grants, collaborations, experimental environments;&lt;/li&gt;
+&lt;li&gt;🧭 &lt;strong&gt;Communication tool&lt;/strong&gt; — receive invitations to conferences, lectures, and reviews;&lt;/li&gt;
+&lt;li&gt;🧑‍🎓 &lt;strong&gt;Way to attract students&lt;/strong&gt; — prospective graduate students can learn more about your interests;&lt;/li&gt;
+&lt;li&gt;📬 &lt;strong&gt;Contact channel&lt;/strong&gt; — via a form or email address.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-hugo-academic&#34;&gt;🚀 Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic&lt;/a&gt; is a framework for building research-oriented websites based on the Hugo static site generator. Its advantages include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Speed&lt;/strong&gt;: the site is statically generated, making it fast and reliable;&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Beautiful templates&lt;/strong&gt;: focused on readability, minimalism, and academic style;&lt;/li&gt;
+&lt;li&gt;🔧 &lt;strong&gt;Flexibility&lt;/strong&gt;: support for publications, projects, courses, events, blogs, and widgets;&lt;/li&gt;
+&lt;li&gt;🔗 &lt;strong&gt;Integrations&lt;/strong&gt;: ORCID, Google Scholar, Twitter, GitHub, Disqus, and more;&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;Easy configuration&lt;/strong&gt;: site structure is managed via YAML files and Markdown content;&lt;/li&gt;
+&lt;li&gt;🌍 &lt;strong&gt;Localization&lt;/strong&gt;: supports multilingual websites, including Russian.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-can-you-build&#34;&gt;🛠 What Can You Build?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A feed with updates on your publications;&lt;/li&gt;
+&lt;li&gt;A calendar of upcoming talks and conferences;&lt;/li&gt;
+&lt;li&gt;A directory of students who have worked with you;&lt;/li&gt;
+&lt;li&gt;A page for your courses and lecture materials;&lt;/li&gt;
+&lt;li&gt;Integration with citation systems and academic databases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;In academia, visibility matters. Your academic reputation begins with Google — and a site built on Hugo Academic can serve as your intellectual hub. It doesn&amp;rsquo;t require much effort but gives you control over how you are represented to the world. If you haven&amp;rsquo;t made this step yet, now might be the perfect time to start.&lt;/p&gt;
+&lt;p&gt;🧪 Make science visible. Let your website tell a story beyond just a list of publications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
